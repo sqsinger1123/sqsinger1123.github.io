@@ -47,7 +47,8 @@ Expand each accordion below to see which is the lie. Did I fool you?
     </details>
     <details class="basis33 mp10"><summary>Marathon</summary>
         <p><strong>True.</strong></p>
-        <p>That was a memorable day: wonderful and terrible at once. I wrote about it, and you can [read my story here](https://blog.sqsinger.com/2013/04/17/boston-marathon-2013/).</p>
+        <p>That was a memorable day: wonderful and terrible at once. I wrote about it, and you can
+        <a href="https://blog.sqsinger.com/2013/04/17/boston-marathon-2013/">read my story here</a>.</p>
     </details>
 </div>
 
