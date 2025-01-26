@@ -13,10 +13,15 @@ Round one: My 2 Truths and 1 Lie:
 
 Read on, and expand each accordion below to see which is the lie. Did I fool you?
 
-| 4 Weddings | Every National Park | Marathon |
-| -- | -- | -- |
-| <details><summary>For real?</summary> **It's true!** My wife Julia and I had four separate wedding ceremonies, to include friends and family in different parts of the world: Toronto, Ontario, Canada – a hybrid event in July 2014! We hosted a civil ceremony including local guests in-person, with several others joining on Skype. Qingdao, Shandong, China – with Julia's maternal grandparents, relatives, and friends. A seafood banquet. Shanghai, China – with Julia's paternal grandparents, relatives, and friends. A wonderful urban adventure. Wilmington, Delaware, USA – the big party with most of our North American friends. Now we have 4 anniversaries to celebrate! Pictured: Julia and Sam (red dress and red tie towards the right) dance at the North York Civic Center during a casual swing dance event on the same day as our civil ceremony.
-</details> |
+<table>
+    <tr>
+        <td>
+            <details><summary>I married the same person 4 times.</summary>
+            **It's true!** My wife Julia and I had four separate wedding ceremonies, to include friends and family in different parts of the world: Toronto, Ontario, Canada – a hybrid event in July 2014! We hosted a civil ceremony including local guests in-person, with several others joining on Skype. Qingdao, Shandong, China – with Julia's maternal grandparents, relatives, and friends. A seafood banquet. Shanghai, China – with Julia's paternal grandparents, relatives, and friends. A wonderful urban adventure. Wilmington, Delaware, USA – the big party with most of our North American friends. Now we have 4 anniversaries to celebrate! Pictured: Julia and Sam (red dress and red tie towards the right) dance at the North York Civic Center during a casual swing dance event on the same day as our civil ceremony.
+            </details>
+        </td>
+    </tr>
+</table>
 
 
 
