@@ -18,10 +18,12 @@ Expand each accordion below to see which is the lie. Did I fool you?
                 <details><summary>4 Weddings</summary>
                     <p><strong>True.</strong></p>
                     <p>My wife Julia and I had four separate wedding ceremonies, to include friends and family in different parts of the world:
-                    1. Toronto, Ontario, Canada – a hybrid event in July 2014! We hosted a civil ceremony including local guests in-person, with several others joining on Skype.
-                    2. Qingdao, Shandong, China – with Julia's maternal grandparents, relatives, and friends. A seafood banquet.
-                    3. Shanghai, China – with Julia's paternal grandparents, relatives, and friends. A wonderful urban adventure.
-                    4. Wilmington, Delaware, USA – the big party with most of our North American friends. Now we have 4 anniversaries to celebrate!
+                    <ol>
+                        <li>Toronto, Ontario, Canada – a hybrid event in July 2014! We hosted a civil ceremony including local guests in-person, with several others joining on Skype.</li>
+                        <li>Qingdao, Shandong, China – with Julia's maternal grandparents, relatives, and friends. A seafood banquet.</li>
+                        <li>Shanghai, China – with Julia's paternal grandparents, relatives, and friends. A wonderful urban adventure.</li>
+                        <li>Wilmington, Delaware, USA – the big party with most of our North American friends. Now we have 4 anniversaries to celebrate!</li>
+                    </ol>
                     <!-- Pictured: Julia and Sam (red dress and red tie towards the right) dance at the North York Civic Center during a casual swing dance event on the same day as our civil ceremony. -->
                     </p>
                 </details>
