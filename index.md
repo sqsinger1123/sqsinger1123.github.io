@@ -1,4 +1,4 @@
-Sam Singer: Using technology to make the world a better place.
+Using technology to make the world a better place.
 
 Hello and welcome to my site!
 
@@ -13,29 +13,30 @@ Round one: My 2 Truths and 1 Lie:
 
 Read on, and expand each accordion below to see which is the lie. Did I fool you?
 
-<table width="100%">
-    <tr>
-        <td width="33%">
-            <details><summary>4 Weddings</summary>
-                <strong>It's true!</strong>
-                My wife Julia and I had four separate wedding ceremonies, to include friends and family in different parts of the world: Toronto, Ontario, Canada – a hybrid event in July 2014! We hosted a civil ceremony including local guests in-person, with several others joining on Skype. Qingdao, Shandong, China – with Julia's maternal grandparents, relatives, and friends. A seafood banquet. Shanghai, China – with Julia's paternal grandparents, relatives, and friends. A wonderful urban adventure. Wilmington, Delaware, USA – the big party with most of our North American friends. Now we have 4 anniversaries to celebrate! Pictured: Julia and Sam (red dress and red tie towards the right) dance at the North York Civic Center during a casual swing dance event on the same day as our civil ceremony.
-            </details>
-        </td>
-        <td width="33%">
-            <details><summary>Every National Park</summary>
-                <strong>No, it's false.</strong>
-                At least as of writing this in 2022, and reviewing it in 2025, I have not been to every national park in the USA. But I have visited several national parks! My wife and I love getting out to explore nature, seeing new places, and collecting stamps. We are often up for a new hiking adventure. We decorate our home with maps collected from our travels – nice reminders of our favorite places. Pictured: we are posing at Moraine Lake in Banff. That's a Canadian National Park! That may have been a hint. 😉 We have visited quite a few national parks in the States as well – with Death Valley, Lassen, Acadia, and Canyonlands all standing out in their own ways.
-            </details>
-        </td>
-        <td width="33%">
-            <details><summary>Marathon</summary>
-                <strong>Yes, it's true!</strong>
-                That was a memorable day: wonderful and terrible at once. I wrote about it, and you can [read my story here](https://blog.sqsinger.com/2013/04/17/boston-marathon-2013/).
-            </details>
-        </td>
-    </tr>
-</table>
-
+<div style="width:100%">
+    <table width="100%">
+        <tr>
+            <td width="33%">
+                <details><summary>4 Weddings</summary>
+                    <p><strong>It's true!</strong></p>
+                    <p>My wife Julia and I had four separate wedding ceremonies, to include friends and family in different parts of the world: Toronto, Ontario, Canada – a hybrid event in July 2014! We hosted a civil ceremony including local guests in-person, with several others joining on Skype. Qingdao, Shandong, China – with Julia's maternal grandparents, relatives, and friends. A seafood banquet. Shanghai, China – with Julia's paternal grandparents, relatives, and friends. A wonderful urban adventure. Wilmington, Delaware, USA – the big party with most of our North American friends. Now we have 4 anniversaries to celebrate! Pictured: Julia and Sam (red dress and red tie towards the right) dance at the North York Civic Center during a casual swing dance event on the same day as our civil ceremony.</p>
+                </details>
+            </td>
+            <td width="33%">
+                <details><summary>Every National Park</summary>
+                    <p><strong>No, it's false.</strong></p>
+                    <p>At least as of writing this in 2022, and reviewing it in 2025, I have not been to every national park in the USA. But I have visited several national parks! My wife and I love getting out to explore nature, seeing new places, and collecting stamps. We are often up for a new hiking adventure. We decorate our home with maps collected from our travels – nice reminders of our favorite places. Pictured: we are posing at Moraine Lake in Banff. That's a Canadian National Park! That may have been a hint. 😉 We have visited quite a few national parks in the States as well – with Death Valley, Lassen, Acadia, and Canyonlands all standing out in their own ways.</p>
+                </details>
+            </td>
+            <td width="33%">
+                <details><summary>Marathon</summary>
+                    <p><strong>Yes, it's true!</strong></p>
+                    <p>That was a memorable day: wonderful and terrible at once. I wrote about it, and you can [read my story here](https://blog.sqsinger.com/2013/04/17/boston-marathon-2013/).</p>
+                </details>
+            </td>
+        </tr>
+    </table>
+</div>
 
 
 <!-- Moraine Lake Banff – Sam and Julia pose on the rockpile trail before mountains and the blue Moraine Lake National Parks -->
