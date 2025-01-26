@@ -16,8 +16,21 @@ Read on, and expand each accordion below to see which is the lie. Did I fool you
 <table>
     <tr>
         <td>
-            <details><summary>I married the same person 4 times.</summary>
-            **It's true!** My wife Julia and I had four separate wedding ceremonies, to include friends and family in different parts of the world: Toronto, Ontario, Canada – a hybrid event in July 2014! We hosted a civil ceremony including local guests in-person, with several others joining on Skype. Qingdao, Shandong, China – with Julia's maternal grandparents, relatives, and friends. A seafood banquet. Shanghai, China – with Julia's paternal grandparents, relatives, and friends. A wonderful urban adventure. Wilmington, Delaware, USA – the big party with most of our North American friends. Now we have 4 anniversaries to celebrate! Pictured: Julia and Sam (red dress and red tie towards the right) dance at the North York Civic Center during a casual swing dance event on the same day as our civil ceremony.
+            <details><summary>4 Weddings</summary>
+                <strong>It's true!</strong>
+                My wife Julia and I had four separate wedding ceremonies, to include friends and family in different parts of the world: Toronto, Ontario, Canada – a hybrid event in July 2014! We hosted a civil ceremony including local guests in-person, with several others joining on Skype. Qingdao, Shandong, China – with Julia's maternal grandparents, relatives, and friends. A seafood banquet. Shanghai, China – with Julia's paternal grandparents, relatives, and friends. A wonderful urban adventure. Wilmington, Delaware, USA – the big party with most of our North American friends. Now we have 4 anniversaries to celebrate! Pictured: Julia and Sam (red dress and red tie towards the right) dance at the North York Civic Center during a casual swing dance event on the same day as our civil ceremony.
+            </details>
+        </td>
+        <td>
+            <details><summary>Every National Park</summary>
+                <strong>No, it's false.</strong>
+                At least as of writing this in 2022, and reviewing it in 2025, I have not been to every national park in the USA. But I have visited several national parks! My wife and I love getting out to explore nature, seeing new places, and collecting stamps. We are often up for a new hiking adventure. We decorate our home with maps collected from our travels – nice reminders of our favorite places. Pictured: we are posing at Moraine Lake in Banff. That's a Canadian National Park! That may have been a hint. 😉 We have visited quite a few national parks in the States as well – with Death Valley, Lassen, Acadia, and Canyonlands all standing out in their own ways.
+            </details>
+        </td>
+        <td>
+            <details><summary>Marathon</summary>
+                <strong>Yes, it's true!</strong>
+                That was a memorable day: wonderful and terrible at once. I wrote about it, and you can [read my story here](https://blog.sqsinger.com/2013/04/17/boston-marathon-2013/).
             </details>
         </td>
     </tr>
@@ -26,9 +39,9 @@ Read on, and expand each accordion below to see which is the lie. Did I fool you
 
 
 <!-- Moraine Lake Banff – Sam and Julia pose on the rockpile trail before mountains and the blue Moraine Lake National Parks -->
-I have visited every National Park in the USA. Have you really? No, it's false. At least as of writing this in 2022, I have not been to every national park in the USA. But I have visited several national parks! My wife and I love getting out to explore nature, seeing new places, and collecting stamps. We are often up for a new hiking adventure. We decorate our home with maps collected from our travels – nice reminders of our favorite places. Pictured: we are posing at Moraine Lake in Banff. That's a Canadian National Park! That may have been a hint. 😉 We have visited quite a few national parks in the States as well – with Death Valley, Lassen, Acadia, and Canyonlands all standing out in their own ways.
-
-BAA Half Afterwards Boston Marathon 2013 I ran a marathon, and it was Boston 2013. You did? Yes, it's true! That was a memorable day: wonderful and terrible at once. I wrote about it, and you can read my story here. Pictured: Sam and several friends after completing the BAA Half Marathon, a few months before the 2013 full marathon.
+<!-- I have visited every National Park in the USA. Have you really? -->
+<!-- BAA Half Afterwards Boston Marathon 2013 I ran a marathon, and it was Boston 2013. You did? -->
+<!-- Pictured: Sam and several friends after completing the BAA Half Marathon, a few months before the 2013 full marathon. -->
 
 Ok that was pretty great. Thanks for playing. One more round? Alright, sure. Try out these 2 truths and a lie:
 1. As a certified scuba instructor, I have logged over 500 dives. 
