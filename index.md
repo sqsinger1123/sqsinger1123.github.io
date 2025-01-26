@@ -17,7 +17,7 @@ Expand each accordion below to see which is the lie. Did I fool you?
             <td width="33%" style="min-width: 20vw;">
                 <details><summary>4 Weddings</summary>
                     <p><strong>True.</strong></p>
-                    <p>My wife Julia and I had four separate wedding ceremonies, to include friends and family in different parts of the world:
+                    <p>My wife Julia and I had four separate wedding ceremonies (or at least 4 different receptions/parties), to include friends and family in different parts of the world:
                     <ol>
                         <li>Toronto, Ontario, Canada – a hybrid event in July 2014! We hosted a civil ceremony including local guests in-person, with several others joining on Skype.</li>
                         <li>Qingdao, Shandong, China – with Julia's maternal grandparents, relatives, and friends. A seafood banquet.</li>
