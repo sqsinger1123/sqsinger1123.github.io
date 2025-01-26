@@ -3,6 +3,13 @@
         display: flex;
         flex-direction: row;
     }
+    .mp10 {
+        margin: 10px;
+        padding: 10px;
+    }
+    .basis33 {
+        flex-basis: 33%;
+    }
 </style>
 
 Welcome to my site.
@@ -19,7 +26,7 @@ Round one: My 2 Truths and 1 Lie:
 Expand each accordion below to see which is the lie. Did I fool you?
 
 <div class="flex-container">
-    <details><summary>4 Weddings</summary>
+    <details class="basis33 mp10"><summary>4 Weddings</summary>
         <p><strong>True.</strong></p>
         <p>My wife Julia and I had four separate wedding ceremonies (or at least 4 different receptions/parties), to include friends and family in different parts of the world:
         <ol>
@@ -31,14 +38,14 @@ Expand each accordion below to see which is the lie. Did I fool you?
         <!-- Pictured: Julia and Sam (red dress and red tie towards the right) dance at the North York Civic Center during a casual swing dance event on the same day as our civil ceremony. -->
         </p>
     </details>
-    <details><summary>Every National Park</summary>
+    <details class="basis33 mp10"><summary>Every National Park</summary>
         <p><strong>False.</strong></p>
         <p>At least as of writing this in 2022, and reviewing it in 2025, I have not been to every national park in the USA. But I have visited several national parks! My wife and I love getting out to explore nature, seeing new places, and collecting stamps. We are often up for a new hiking adventure. We decorate our home with maps collected from our travels – nice reminders of our favorite places.
         <!-- Pictured: we are posing at Moraine Lake in Banff. That's a Canadian National Park! That may have been a hint. 😉  -->
         We have visited quite a few national parks in the States as well – with Death Valley, Lassen, Acadia, and Canyonlands all standing out in their own ways.
         </p>
     </details>
-    <details><summary>Marathon</summary>
+    <details class="basis33 mp10"><summary>Marathon</summary>
         <p><strong>True.</strong></p>
         <p>That was a memorable day: wonderful and terrible at once. I wrote about it, and you can [read my story here](https://blog.sqsinger.com/2013/04/17/boston-marathon-2013/).</p>
     </details>
