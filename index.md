@@ -53,4 +53,15 @@ Diving False. Not even close. I have never gone scuba diving. However, I used to
 
 Duolingo True. I am studying Mandarin Chinese and have been at it consistently for 401 days as of writing this on Nov 15, 2022. I've also used Duolingo to improve my Spanish, French, Latin, and Italian. But I've spent the most time learning Mandarin, to better connect with my wife's family. Duolingo learning Mandarin
 
-Instruments True. I first learned piano, then trombone, then trumpet. I can play all three, but not skillfully anymore. As of high school, I was actively playing all three on a regular basis. Nowadays, I play some improvisational piano and compose music, just for fun. Here I am (left) playing trombone in college, at a graduation event. trombones A few photos Just a few adventures and fun moments. Minimal context per photo. Feel free to ask me about any/all of these pictures. Click on any photo to see it full-size, and scroll down for captions. If you are logged into HubSpot, then the button to close the lightbox may be obscured by the sprocket button. I'll see if there is an easy fix for that. :) leaves in Wisconsin Julia hanging out in a submerged bench Iceland at Godafoss ballroom dance instructions Goobers Diner with Parents Hello Boston Kitten Mom adopted Stella is the best dog Let's Get in Touch Or if you'd like, let's chat In-person, on video, or through some other media. Schedule a Meeting Connect on LinkedIn This page was made with love using HubSpot. Cambridge, MA Copyright © 2024
+Instruments True. I first learned piano, then trombone, then trumpet. I can play all three, but not skillfully anymore. As of high school, I was actively playing all three on a regular basis. Nowadays, I play some improvisational piano and compose music, just for fun. Here I am (left) playing trombone in college, at a graduation event. trombones
+
+<!-- A few photos Just a few adventures and fun moments. Minimal context per photo. Feel free to ask me about any/all of these pictures. Click on any photo to see it full-size, and scroll down for captions. If you are logged into HubSpot, then the button to close the lightbox may be obscured by the sprocket button. I'll see if there is an easy fix for that. :) leaves in Wisconsin Julia hanging out in a submerged bench Iceland at Godafoss ballroom dance instructions Goobers Diner with Parents Hello Boston Kitten Mom adopted Stella is the best dog -->
+
+What's next? Let's Get in Touch
+
+1. We can chat In-person, on video, or through some other media.
+1. [Connect on LinkedIn](https://www.linkedin.com/in/sqsinger/).
+
+This page was built with love.
+
+Copyright © 2025 and onwards.
