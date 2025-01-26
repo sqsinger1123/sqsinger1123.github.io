@@ -1,5 +1,3 @@
-Hello world, I'm Sam!
-
 Welcome to my site.
 
 Lets Play Two Truths and a Lie.
