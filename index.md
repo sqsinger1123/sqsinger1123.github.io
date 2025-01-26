@@ -1,8 +1,8 @@
-Using technology to make the world a better place.
+<h1>Hello world, I'm Sam!</h1>
 
-Hello and welcome to my site!
+Welcome to my site.
 
-Lets Play: Two Truths and a Lie
+Lets Play Two Truths and a Lie.
 
 The rules are simple. I'll offer you three fun facts about myself. Two are true, and one is a lie! Take your best guess as to which one is a lie. Then expand each story below to learn more – and learn whether I'm telling the truth!
 
