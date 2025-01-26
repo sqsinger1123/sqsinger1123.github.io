@@ -94,6 +94,6 @@ What's next? Let's Get in Touch
 1. [Connect on LinkedIn](https://www.linkedin.com/in/sqsinger/).
 1. We can chat in-person, on video, or through some other media.
 
-This page was built with love.
+This page was built with love: first on HubSpot then on github pages.
 
 Copyright © 2025 and onwards.
