@@ -14,7 +14,7 @@ Round one: My 2 Truths and 1 Lie:
 Read on, and expand each accordion below to see which is the lie. Did I fool you?
 
 <div style="width:100%">
-    <table width="100%" style="width:100%; min-width: 90vw;">
+    <table width="100%" style="width:100%; min-width: 80vw;">
         <tr>
             <td width="33%" style="min-width: 20vw;">
                 <details><summary>4 Weddings</summary>
