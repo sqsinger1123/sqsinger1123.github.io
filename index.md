@@ -31,7 +31,10 @@ Expand each accordion below to see which is the lie. Did I fool you?
             <td width="33%" style="min-width: 20vw;">
                 <details><summary>Every National Park</summary>
                     <p><strong>False.</strong></p>
-                    <p>At least as of writing this in 2022, and reviewing it in 2025, I have not been to every national park in the USA. But I have visited several national parks! My wife and I love getting out to explore nature, seeing new places, and collecting stamps. We are often up for a new hiking adventure. We decorate our home with maps collected from our travels – nice reminders of our favorite places. Pictured: we are posing at Moraine Lake in Banff. That's a Canadian National Park! That may have been a hint. 😉 We have visited quite a few national parks in the States as well – with Death Valley, Lassen, Acadia, and Canyonlands all standing out in their own ways.</p>
+                    <p>At least as of writing this in 2022, and reviewing it in 2025, I have not been to every national park in the USA. But I have visited several national parks! My wife and I love getting out to explore nature, seeing new places, and collecting stamps. We are often up for a new hiking adventure. We decorate our home with maps collected from our travels – nice reminders of our favorite places.
+                    <!-- Pictured: we are posing at Moraine Lake in Banff. That's a Canadian National Park! That may have been a hint. 😉  -->
+                    We have visited quite a few national parks in the States as well – with Death Valley, Lassen, Acadia, and Canyonlands all standing out in their own ways.
+                    </p>
                 </details>
             </td>
             <td width="33%" style="min-width: 20vw;">
