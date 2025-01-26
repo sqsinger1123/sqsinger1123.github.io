@@ -1,4 +1,4 @@
-<h1>Hello world, I'm Sam!</h1>
+Hello world, I'm Sam!
 
 Welcome to my site.
 
@@ -49,18 +49,41 @@ Ok that was pretty great. Thanks for playing. One more round? Alright, sure. Try
 1. As of today (Nov 15, 2022), I have a 401-day streak on Duolingo.
 1. In high school, I played the piano, trombone, and trumpet.
 
-Diving False. Not even close. I have never gone scuba diving. However, I used to do a different kind of diving (pictured) – the kind from a one-meter springboard. And I was pretty ok. Top 10 in the state of Delaware. It's a small state. Here I am upside-down mid reverse.
-
-Duolingo True. I am studying Mandarin Chinese and have been at it consistently for 401 days as of writing this on Nov 15, 2022. I've also used Duolingo to improve my Spanish, French, Latin, and Italian. But I've spent the most time learning Mandarin, to better connect with my wife's family. Duolingo learning Mandarin
-
-Instruments True. I first learned piano, then trombone, then trumpet. I can play all three, but not skillfully anymore. As of high school, I was actively playing all three on a regular basis. Nowadays, I play some improvisational piano and compose music, just for fun. Here I am (left) playing trombone in college, at a graduation event. trombones
+<div style="width:100%">
+    <table width="100%" style="width:100%; min-width: 80vw;">
+        <tr>
+            <td width="33%" style="min-width: 20vw;">
+                <details><summary>Diving</summary>
+                    <p><strong>False</strong></p>
+                    <p>Not even close. I have never gone scuba diving. However, I used to do a different kind of diving – the kind from a one-meter springboard. And I was pretty ok. Top 10 in the state of Delaware. It's a small state.
+                    <!-- Here I am upside-down mid reverse. -->
+                    </p>
+                </details>
+            </td>
+            <td width="33%" style="min-width: 20vw;">
+                <details><summary>Duolingo</summary>
+                    <p><strong>True.</strong></p>
+                    <p>I am studying Mandarin Chinese and have been at it consistently for 401 days as of writing this on Nov 15, 2022. I've also used Duolingo to improve my Spanish, French, Latin, and Italian. But I've spent the most time learning Mandarin, to better connect with my wife's family. Duolingo learning Mandarin</p>
+                </details>
+            </td>
+            <td width="33%" style="min-width: 20vw;">
+                <details><summary>Instruments</summary>
+                    <p><strong>True.</strong></p>
+                    <p>I first learned piano, then trombone, then trumpet. I can play all three, but not skillfully anymore. As of high school, I was actively playing all three on a regular basis. Nowadays, I play some improvisational piano and compose music, just for fun.
+                    <!-- Here I am (left) playing trombone in college, at a graduation event. -->
+                    </p>
+                </details>
+            </td>
+        </tr>
+    </table>
+</div>
 
 <!-- A few photos Just a few adventures and fun moments. Minimal context per photo. Feel free to ask me about any/all of these pictures. Click on any photo to see it full-size, and scroll down for captions. If you are logged into HubSpot, then the button to close the lightbox may be obscured by the sprocket button. I'll see if there is an easy fix for that. :) leaves in Wisconsin Julia hanging out in a submerged bench Iceland at Godafoss ballroom dance instructions Goobers Diner with Parents Hello Boston Kitten Mom adopted Stella is the best dog -->
 
 What's next? Let's Get in Touch
 
-1. We can chat In-person, on video, or through some other media.
 1. [Connect on LinkedIn](https://www.linkedin.com/in/sqsinger/).
+1. We can chat in-person, on video, or through some other media.
 
 This page was built with love.
 
